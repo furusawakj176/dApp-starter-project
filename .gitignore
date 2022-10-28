@@ -12,3 +12,7 @@ yarn-debug.log*
 yarn-error.log*
 /.changelog
 .npm/
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
