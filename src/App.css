@@ -32,3 +32,18 @@
   border-radius: 5px;
   
 }
+
+.waveButton2 {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+  
+}
+
+.waveButton2:hover {
+  color: #fff;
+  background: #00f;
+}

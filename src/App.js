@@ -220,8 +220,8 @@ return (
       )}
       {/* waveボタンにwave関数を連動させる */}
       {currentAccount && (
-      <button className="waveButton" onClick={wave}>
-        wave at me
+      <button className="waveButton2" onClick={wave}>
+        Wave を送ってください
       </button>
       )}
       <br />
